@@ -19,9 +19,16 @@ html {
 
 .main-container
 {
-  background-color: pink;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
 }
 
+.half-screen-container
+{
+  width: 100%;
+}
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
