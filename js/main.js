@@ -9,7 +9,7 @@ Over 300+ free scripts!
 This credit MUST stay intact for use
 */
 
-    var randomlinks=new Array()
+  var randomlinks=new Array()
     randomlinks[0]="https://www.youtube.com/watch?v=autfSreW7tc&list=OLAK5uy_kbH2SkPM78pTOFVU1CD_VkDzoVAvqUt8M&index=2"
     randomlinks[1]="https://www.youtube.com/watch?v=dF8SXsVQUQY&list=OLAK5uy_kbH2SkPM78pTOFVU1CD_VkDzoVAvqUt8M&index=2"
     randomlinks[2]="https://www.youtube.com/watch?v=avbYGdl3hSo&list=OLAK5uy_kbH2SkPM78pTOFVU1CD_VkDzoVAvqUt8M&index=3"
