@@ -1,8 +1,4 @@
- <html>
-    <head>
-    </head>
-        <body>
-        <script>
+
 /*
 Random link button- By JavaScript Kit (http://javascriptkit.com)
 Over 300+ free scripts!
@@ -27,10 +23,7 @@ This credit MUST stay intact for use
     function randomlink(){
     window.location=randomlinks[Math.floor(Math.random()*randomlinks.length)]
     }
-</script>
-<form method="post">
+     method="post">
     <button>"CAESAR MIRAGE"</button>
-    valueonclick="randomlink()"</form>
+    valueonclick="randomlink()"
 <a href="javascript:randomlink()">Random Link</a>
- </body>
- </html>
