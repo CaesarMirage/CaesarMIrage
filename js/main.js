@@ -29,10 +29,8 @@ This credit MUST stay intact for use
     }
 </script>
 <form method="post">
-<p><input type="button" name="B1" value="Random Link >>" onclick="randomlink()"></p> </form>
-
-<!--Uncomment below to use a regular text link instead
+    <button>"CAESAR MIRAGE"</button>
+    valueonclick="randomlink()" </form>
 <a href="javascript:randomlink()">Random Link</a>
--->
  </body>
  </html>
