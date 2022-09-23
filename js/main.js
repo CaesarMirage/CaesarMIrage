@@ -3,7 +3,6 @@
     </head>
         <body>
         <script>
-        <!--
 /*
 Random link button- By JavaScript Kit (http://javascriptkit.com)
 Over 300+ free scripts!
@@ -28,9 +27,12 @@ This credit MUST stay intact for use
     function randomlink(){
     window.location=randomlinks[Math.floor(Math.random()*randomlinks.length)]
     }
-    
-    </script>
-    <button class="buttoncaesar"></button>
+</script>
+<form method="post">
+<p><input type="button" name="B1" value="Random Link >>" onclick="randomlink()"></p> </form>
+
+<!--Uncomment below to use a regular text link instead
 <a href="javascript:randomlink()">Random Link</a>
+-->
  </body>
  </html>
