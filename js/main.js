@@ -1,4 +1,3 @@
-
 /*
 Random link button- By JavaScript Kit (http://javascriptkit.com)
 Over 300+ free scripts!
@@ -25,5 +24,4 @@ This credit MUST stay intact for use
     }
      method="post">
     <button>"CAESAR MIRAGE"</button>
-    valueonclick="randomlink()"
-<a href="javascript:randomlink()">Random Link</a>
+    valueonclick="randomlink()" <a href="javascript:randomlink()">Random Link</a>
