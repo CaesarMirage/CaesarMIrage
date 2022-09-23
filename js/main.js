@@ -3,7 +3,13 @@
     </head>
         <body>
         <script>
-    
+        <!--
+/*
+Random link button- By JavaScript Kit (http://javascriptkit.com)
+Over 300+ free scripts!
+This credit MUST stay intact for use
+*/
+
     var randomlinks=new Array()
     randomlinks[0]="https://www.youtube.com/watch?v=autfSreW7tc&list=OLAK5uy_kbH2SkPM78pTOFVU1CD_VkDzoVAvqUt8M&index=2"
     randomlinks[1]="https://www.youtube.com/watch?v=dF8SXsVQUQY&list=OLAK5uy_kbH2SkPM78pTOFVU1CD_VkDzoVAvqUt8M&index=2"
